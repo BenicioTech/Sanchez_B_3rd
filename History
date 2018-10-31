@@ -1,0 +1,17 @@
+    1  echo "my name is Benicio Sanchez and I am $USER"
+    2  y name is Benicio Sanchez and I am $USER"
+    3  ssh-keygen
+    4  ssh-copy-id
+    5  ssh-copy-id Benicio@onion
+    6  ssh-copy-id Benicio@remote_host
+    7  sudp apt-get install xclip
+    8  visudo
+    9  su
+   10  sudo apt-get install xclip
+   11  sudo yum install xclip
+   12  xclip -sel clip < ~/.ssh/id_rsa.pub
+   13  sudo yum install spice-server
+   14  sudo yum update
+   15  sudo yum update spice-server
+   16  sudo yum install spice-server
+   17  history > Sanchez_B_3rd_103118_commands.txt
